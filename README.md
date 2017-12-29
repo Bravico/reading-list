@@ -5,12 +5,12 @@
 （注：👍 表示推荐，👍👍 表示强烈推荐，❌ 表示差评）
 
 ## 索引
-- 文学
-- 传记
-- 历史
-- 科学
-- 技术
-- 杂类
+- [文学](https://github.com/Bravico/reading-list/blob/master/README.md#%E6%96%87%E5%AD%A6)
+- [传记](https://github.com/Bravico/reading-list/blob/master/README.md#%E4%BC%A0%E8%AE%B0)
+- [历史](https://github.com/Bravico/reading-list/blob/master/README.md#%E5%8E%86%E5%8F%B2)
+- [科学](https://github.com/Bravico/reading-list/blob/master/README.md#%E7%A7%91%E5%AD%A6)
+- [技术](https://github.com/Bravico/reading-list/blob/master/README.md#%E6%8A%80%E6%9C%AF)
+- [杂类](https://github.com/Bravico/reading-list/blob/master/README.md#%E6%9D%82%E7%B1%BB)
 
 ## 文学
 
