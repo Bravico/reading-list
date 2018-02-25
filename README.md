@@ -13,7 +13,7 @@
 - [杂类](https://github.com/Bravico/reading-list/blob/master/README.md#%E6%9D%82%E7%B1%BB)
 
 ## 文学
-
+1. 岛上书店， 2017年9月
 
 ## 传记
 
